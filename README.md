@@ -1,2 +1,3 @@
 # todo-js
-Created with CodeSandbox
+
+Udemy の講座で習いました。
